@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5300472285306032863
+  m_GuidHigh: 15957325369280133294
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4835137041563616338
+      m_GuidHigh: 11378558074377652107
+    m_SerializedTextureGuid:
+      m_GuidLow: 7909461789683651407
+      m_GuidHigh: 8226600330906518922
+    m_Size: {x: 0.0635, y: 0.0886562}
+    m_SpecifySize: 1
+    m_Name: AceCard
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5329767208424325442
+      m_GuidHigh: 16578057428631711637
+    m_SerializedTextureGuid:
+      m_GuidLow: 4558821645167713988
+      m_GuidHigh: 7322468936417759594
+    m_Size: {x: 0.0635, y: 0.08842472}
+    m_SpecifySize: 1
+    m_Name: RobinCard
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4759862931168807055
+      m_GuidHigh: 12976004450608046013
+    m_SerializedTextureGuid:
+      m_GuidLow: 2676344778735911874
+      m_GuidHigh: 13578654073177266379
+    m_Size: {x: 0.0635, y: 0.09031112}
+    m_SpecifySize: 1
+    m_Name: BlackBeardCard
+    m_Texture: {fileID: 0}
